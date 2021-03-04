@@ -1,0 +1,1 @@
+int segment_product(int from, int to);
